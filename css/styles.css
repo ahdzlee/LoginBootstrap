@@ -22,3 +22,18 @@ form.signin-form {
   max-width: 350px;
   margin: auto;
 }
+
+button.signin-btn {
+  color: #fff;
+  background-color: #d64829;
+  width: 100%;
+}
+
+button.signin-btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
+
+button.signin-btn:hover {
+  background-color: #c23d1f;
+}
