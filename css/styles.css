@@ -27,6 +27,7 @@ button.signin-btn {
   color: #fff;
   background-color: #d64829;
   width: 100%;
+  margin-bottom: 1.2rem;
 }
 
 button.signin-btn:focus {
@@ -36,4 +37,11 @@ button.signin-btn:focus {
 
 button.signin-btn:hover {
   background-color: #c23d1f;
+}
+
+a.create-new-account {
+  display: block;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 15px;
 }
